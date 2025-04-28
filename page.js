@@ -1,4 +1,6 @@
- <div>
+//Feito a correção de erros com a ajuda do: https://copilot.microsoft.com/
+
+<div>
         <h1>Bem-vindo à Página Rota 1</h1>
         <p>Esta é uma página criada dentro do diretório "app/rota1".</p>
       </div>
